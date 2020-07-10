@@ -26,3 +26,34 @@
   grid-gap: 0.5rem 0.5rem;
 }
 
+
+/* mobile-Phones */
+@media(max-width: 600px) { 
+
+  .image-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 0.5rem 0.5rem;
+  }
+
+  .image-grid-2 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 0.5rem 0.5rem;
+  }
+
+  .image-grid-4 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 0.5rem 0.5rem;
+  }
+
+  .image-columns {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 4rem;
+  }
+}
