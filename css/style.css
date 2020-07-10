@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.2rem;
+  background: pink;
+  color:rgb(123, 5, 128);
+  line-height: 1.6;
+  text-align: center;
+  /* background-color: chocolate; */
+}
+
+
+.image-titles {
+  color: rgb(91, 4, 94);
+  margin-top: 8rem;
+}
+
+
+
+/* images */
+
+/* Coconut Almond Cake */
+
+.grid-image-coconut-1 {
+  background: url('../img/CoconutAlmondCake/IMG_20200606_150120-01.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-coconut-2 {
+  background: url('../img/CoconutAlmondCake/IMG_20200606_151730-01.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+
+/* --------------------------------- */
+
+/* Blueberry Lemon Buttermilk Cake */
+
+.grid-image-blueLemon-1 {
+  background: url('../img/BlueberryLemonButtermilkCake/IMG_20200603_103356-01.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-blueLemon-2 {
+  background: url('../img/BlueberryLemonButtermilkCake/IMG_20200603_104358-02.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-blueLemon-3 {
+  background: url('../img/BlueberryLemonButtermilkCake/IMG_20200603_104809-01.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-blueLemon-4 {
+  background: url('../img/BlueberryLemonButtermilkCake/IMG_20200603_105051-01.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+
+/* ---------------------------------- */
+
+/* Ginger Bread Cake */
+
+.grid-image-gingerbread-1 {
+  background: url('../img/GingerbreadCake/IMG_20200507_121921-01.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-gingerbread-2 {
+  background: url('../img/GingerbreadCake/IMG_20200507_121941-01.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+
+/* --------------------------------------- */
+
+/* Slutty Brownie */
+
+.grid-image-sluttybrownie-1 {
+  background: url('../img/SluttyBrownie/1.jpg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-sluttybrownie-2 {
+  background: url('../img/SluttyBrownie/2.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+
+/* ----------------------------------------- */
+
+/* Various Bakes
+ */
+.grid-image-1 {
+  background: url('../img/OneOfs/1.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-2 {
+  background: url('../img/OneOfs/2.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-3 {
+  background: url('../img/OneOfs/3.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-4 {
+  background: url('../img/OneOfs/4.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-5 {
+  background: url('../img/OneOfs/5.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+
+.grid-image-6 {
+  background: url('../img/OneOfs/6.jpeg')no-repeat center center/cover;
+  height: 300px;
+  width: 300px;
+}
+.center-box h3 {
+  text-align: center;
+}
+
+.center-box p {
+  text-align: justify;
+}
+
+.center-box a {
+  color: var(--secondary-color);
+}
+
+/* ------------------------------- */

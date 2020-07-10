@@ -1,0 +1,28 @@
+.image-columns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 2rem;
+  /* background-color: blanchedalmond; */
+  background-color: rgb(190, 155, 223);
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0.5rem 0.5rem;
+}
+
+.image-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 0.5rem 0.5rem;
+}
+
+.image-grid-4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 0.5rem 0.5rem;
+}
+
